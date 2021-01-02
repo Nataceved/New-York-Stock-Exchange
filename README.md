@@ -31,3 +31,4 @@ Next, is to create a financial model for r choice that forecasts out the Gross P
 
 
 Dataset https://www.kaggle.com/dgawlik/nyse
+Final Financial model https://docs.google.com/spreadsheets/d/1UHvNVpr4qTLRs5j7hQWqEo3S0gjqj07_BX_R3YT1Tss/edit?usp=sharing 
